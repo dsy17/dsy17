@@ -5,5 +5,5 @@ I'm a CompSci graduate who is an enjoyer of video games, maker of clothing and c
 
 ### Currently experimenting with:
 - JavaScript/React
-- Bringing fashion into the digital space
+- Digital fashion
 - Blender
