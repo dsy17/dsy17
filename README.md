@@ -5,4 +5,5 @@ I'm a CompSci graduate who enjoys video games and coding things ✿ʕ •ᴥ•�
 
 ### Currently using:
 - JavaScript/React
+- Python
 - Blender
