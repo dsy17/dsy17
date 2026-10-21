@@ -4,14 +4,14 @@ I like making pictures look worse on purpose
 
 ---
 
-<h3 align="center">Currently working on: PixelForge</h3>
+<h3>Currently working on: PixelForge</h3>
 
-<p align="center">
+<p>
   A command-line pipeline of retro and glitch effects. Every effect is written from scratch on top of Pillow,<br/>
   and you can chain them in any order.
 </p>
 
-<table align="center">
+<table>
   <tr>
     <td align="center"><img width="120" src="https://raw.githubusercontent.com/dsy17/PixelForge/main/resources/quantise.png" /><br/><sub><b>QUANTISE</b><br/>median cut, N colours</sub></td>
     <td align="center"><img width="120" src="https://raw.githubusercontent.com/dsy17/PixelForge/main/resources/pico.png" /><br/><sub><b>PALETTE</b><br/>PICO-8, C64, CGA…</sub></td>
