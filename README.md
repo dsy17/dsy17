@@ -1,6 +1,6 @@
 ### hi, i'm dsy17
 
-I make pictures look worse on purpose.
+I like making pictures look worse on purpose
 
 ---
 
