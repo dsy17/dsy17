@@ -1,4 +1,4 @@
-### hi, i'm dsy17
+### hi, i'm dsy17 ＼ʕ •ᴥ•ʔ／
 
 I like making pictures look worse on purpose
 
